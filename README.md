@@ -4,7 +4,7 @@ Repositório criado para estudos e projetos com Arduino.
 ## Blink - Piscar LED (Interno)
 
 <div align="center">
-  <img src="../estudo-arduino/assets/blink.gif" alt="Blink Interno" width="500"/>
+  <img src="/assets/blink.gif" alt="Blink Interno" width="500"/>
 </div>
 
 
@@ -41,7 +41,7 @@ void loop() {
 <a href="https://www.tinkercad.com/things/fSUKC8K3kRB/editel?sharecode=qyGqongasKDWY-93Q95CTBGea8U8OLad5e_bY3WLHBM" target="_blank">Link do projeto no Tinkercad</a>
 
 <div align="center">
-  <img src="../estudo-arduino/assets/tinkercad-print.png" alt="Blink Externo" width="'300"'/>
+  <img src="/assets/tinkercad-print.png" alt="Blink Externo" width="'300"'/>
 
 </div>
 
@@ -49,11 +49,11 @@ void loop() {
 
 &ensp;Mini projeto de semáforo utilizando LEDs.
 <div align="center">
-  <img src="../estudo-arduino/assets/semafaro.jpg" alt="Semáforo" width="300"/>
+  <img src="/assets/semafaro.jpg" alt="Semáforo" width="300"/>
 </div>
 
 <div align="center">
-  <img src="../estudo-arduino/assets/semaforoo.gif" alt="Semáforo" width="300"/>
+  <img src="/assets/semaforoo.gif" alt="Semáforo" width="300"/>
 
 </div>
 
